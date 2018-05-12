@@ -1,6 +1,4 @@
-# benOS CREDITS & ACKNOWLEDGEMENTS
-
-## Acknowledgements
+# benOS CREDITS & ATTRIBUTES
 Portions of this Bench Software may utilize or adapt the following copyrighted material, the use of which is hereby acknowledged. You can see all the Software credits [HERE](https://github.com/benchlab/benOS/blob/master/ATTRIBUTES.md).
 
 **3Dlabs Inc. Ltd ( OpenGL2 Shader Language compiler )**
