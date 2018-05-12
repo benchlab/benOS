@@ -1,3 +1,5 @@
 # benOS
-Information and Code Related To benOS Operating System for BenchX Devices
+Official repository for benOS Desktop
+
+
 
