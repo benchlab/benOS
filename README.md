@@ -8,26 +8,26 @@ benOS is a decentralized operating system, originally based on Linux, uses some 
 benOS has many components that make the wheels turn. Below are a list of those components:
 
 ## benOS Network Components
-[Nova](https://github.com/benchlab/nova) - Global Decentralized Hypervisor For The Bench Network
-[Kepler](https://github.com/benchlab/kepler) - Global Decentralized Identity Management For The Bench Network
-[Designate](https://github.com/benchlab/designate) - Global Decentralized Naming Service For The Bench Network
-[Flutter](https://github.com/benchlab/flutter) - Global Decentralized Image Service For The Bench Network
-[Neutron](https://github.com/benchlab/neutron) - Global Network Creation & Management For The Bench Network
-  - [BenchCore](https://github.com/benchlab/BenchCore) - Core Decentralized Network Component For The Bench Network
-  - [BenchChain](https://github.com/benchlab/BenchChain) - Neutron's RootChain On The Bench Network 
-[Aero](https://github.com/benchlab/aero) - Global Object Storage Distributor & Manager For The Bench Network
-[Explorer](https://github.com/benchlab/explorer) - Global dApp Distributor, Manager and Viewer For The Bench Network
-[benFS](https://github.com/benchlab/benFS) - benOS FileSystem
-[dappJS](https://github.com/benchlab/dappjs) - dApp Development Kit For The Bench Network
-[Mercury](https://github.com/benchlab/mercury) - benOS Graphical User Interface
-[Asteroid](https://github.com/benchlab/go-asteroid) - benOS Native Programming Language
-[Meteor](https://github.com/benchlab/meteor) - benOS Native IDE for dApp Development
-
+[Nova](https://github.com/benchlab/nova) - Global Decentralized Hypervisor For The Bench Network <br>
+[Kepler](https://github.com/benchlab/kepler) - Global Decentralized Identity Management For The Bench Network <br>
+[Designate](https://github.com/benchlab/designate) - Global Decentralized Naming Service For The Bench Network <br>
+[Flutter](https://github.com/benchlab/flutter) - Global Decentralized Image Service For The Bench Network <br>
+[Neutron](https://github.com/benchlab/neutron) - Global Network Creation & Management For The Bench Network <br>
+  - [BenchCore](https://github.com/benchlab/BenchCore) - Core Decentralized Network Component For The Bench Network <br>
+  - [BenchChain](https://github.com/benchlab/BenchChain) - Neutron's RootChain On The Bench Network <br>
+[Aero](https://github.com/benchlab/aero) - Global Object Storage Distributor & Manager For The Bench Network <br>
+[Explorer](https://github.com/benchlab/explorer) - Global dApp Distributor, Manager and Viewer For The Bench Network <br>
+[benFS](https://github.com/benchlab/benFS) - benOS FileSystem <br>
+[dappJS](https://github.com/benchlab/dappjs) - dApp Development Kit For The Bench Network <br>
+[Mercury](https://github.com/benchlab/mercury) - benOS Graphical User Interface <br>
+[Asteroid](https://github.com/benchlab/go-asteroid) - benOS Native Programming Language <br>
+[Meteor](https://github.com/benchlab/meteor) - benOS Native IDE for dApp Development <br>
+<br><br>
 ## benOS Core Components
-[benOS-Microkernel](https://github.com/benOS-Microkernel) - benOS Microkernel
-[benOS-Bootloader](https://github.com/benchlab/benOS-Bootloader) - benOS Bootloader
-[ParseArgs](https://github.com/benchlab/parseargs) - benOS-based Argument Parsing 
-[X](https://github.com/benchlab/X) - benOS Graphical User Interface
+[benOS-Microkernel](https://github.com/benOS-Microkernel) - benOS Microkernel <br>
+[benOS-Bootloader](https://github.com/benchlab/benOS-Bootloader) - benOS Bootloader <br>
+[ParseArgs](https://github.com/benchlab/parseargs) - benOS-based Argument Parsing  <br>
+[X](https://github.com/benchlab/X) - benOS Graphical User Interface <br>
 
 And there are other pieces under development as well, as our development team grows. 
 
