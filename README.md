@@ -15,6 +15,7 @@ benOS has many components that make the wheels turn. Below are a list of those c
 [Neutron](https://github.com/benchlab/neutron) - Global Network Creation & Management For The Bench Network <br>
   - [BenchCore](https://github.com/benchlab/BenchCore) - Core Decentralized Network Component For The Bench Network <br>
   - [BenchChain](https://github.com/benchlab/BenchChain) - Neutron's RootChain On The Bench Network <br>
+
 [Aero](https://github.com/benchlab/aero) - Global Object Storage Distributor & Manager For The Bench Network <br>
 [Explorer](https://github.com/benchlab/explorer) - Global dApp Distributor, Manager and Viewer For The Bench Network <br>
 [benFS](https://github.com/benchlab/benFS) - benOS FileSystem <br>
