@@ -30,7 +30,7 @@ benOS has many components that make the wheels turn. Below are a list of those c
 [ParseArgs](https://github.com/benchlab/parseargs) - benOS-based Argument Parsing  <br>
 [X](https://github.com/benchlab/X) - benOS Graphical User Interface <br>
 
-And there are other pieces under development as well, as our development team grows. 
+**NOTE:** ***There are other pieces under development as well, as our development team grows.*** 
 
 ## Why A Decentralized Operating System?
 As we move through the growth stages of decentralized technologies, at some point we had to get to the operating system. We have spent an enormous amount of time looking at how a decentralized operating systems should work and what makes them different from their earlier counterparts. A lot of the methodologies of old are still used but the way they work have changed dramatically. Some developers see a blockchain as a global computer and that it therefore is a operating system and in a way, they're right but in some ways they're wrong. Below we take a look at traditional operating systems vs. decentralized operating systems, as well as sophisticated blockchains vs. decentralized operating systems. 
